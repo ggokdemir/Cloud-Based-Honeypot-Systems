@@ -1,2 +1,2 @@
-# Cloud-Based-Honeypot-Systems-Applications
+# Cloud-Based-Honeypot-Systems
 Thesis (Gürkan Gökdemir)
